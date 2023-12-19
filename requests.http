@@ -1,0 +1,33 @@
+### GET ALL
+GET http://localhost:3000/articles
+
+### GET BY ID
+GET http://localhost:3000/articles/44f55b09-685a-472f-a66e-12c5f3fad1f2
+
+### GET BY CATEGORY
+GET http://localhost:3000/articles/categories/Electrónicos
+
+### POST
+POST http://localhost:3000/articles
+Content-Type: application/json
+
+{
+  "name": "Termo",
+  "price": 20,
+  "category": "Deportes",
+  "description": "Mantiene el agua fría por 10 horas",
+  "availability": true
+}
+
+### DELETE
+DELETE http://localhost:3000/articles/2f0601f6-eb93-4d55-90a2-b151b2af63de
+
+### PATCH
+PATCH http://localhost:3000/articles/2f0601f6-eb93-4d55-90a2-b151b2af63de
+Content-Type: application/json
+
+{
+  "price": 25,
+  "category": "Hogar"
+}
+

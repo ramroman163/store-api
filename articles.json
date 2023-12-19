@@ -1,0 +1,112 @@
+[
+  {
+    "id": "7e7e5b17-4a6c-4b4c-9b7a-dc557e8e64e1",
+    "name": "Laptop",
+    "price": 1200,
+    "category": "Electrónicos",
+    "description": "Laptop potente con especificaciones de alto rendimiento.",
+    "brand": "MarcaXYZ",
+    "availability": true,
+    "images": ["url1.jpg", "url2.jpg"],
+    "releaseDate": "2023-01-01"
+  },
+  {
+    "id": "92949d7d-7e87-4b26-a87d-6ff6c18d08f0",
+    "name": "Cafetera",
+    "price": 80,
+    "category": "Electrodomésticos",
+    "description": "Una cafetera programable para preparar tu café favorito.",
+    "brand": "OtraMarca",
+    "availability": false,
+    "images": ["url3.jpg", "url4.jpg"],
+    "releaseDate": "2023-02-15"
+  },
+  {
+    "id": "f3dcee86-5232-4e1c-aae9-564e793de4a9",
+    "name": "Zapatillas para Correr",
+    "price": 90,
+    "category": "Deportes",
+    "description": "Zapatillas cómodas para tus entrenamientos diarios.",
+    "brand": "DeporteMax",
+    "availability": true,
+    "images": ["url5.jpg", "url6.jpg"],
+    "releaseDate": "2023-03-10"
+  },
+  {
+    "id": "214d20ac-17b8-4a21-bd6b-66a8ebfc1363",
+    "name": "Teléfono Inteligente",
+    "price": 800,
+    "category": "Electrónicos",
+    "description": "El último teléfono inteligente con funciones avanzadas y una cámara de alta calidad.",
+    "brand": "SmartTech",
+    "availability": true,
+    "images": ["url7.jpg", "url8.jpg"],
+    "releaseDate": "2023-04-05"
+  },
+  {
+    "id": "b3eb2f15-8f8b-4f16-8eb2-cc3e93baf808",
+    "name": "Juego de Ollas",
+    "price": 150,
+    "category": "Cocina",
+    "description": "Un juego completo de utensilios de cocina duraderos y antiadherentes.",
+    "brand": "ChefMaster",
+    "availability": true,
+    "images": ["url9.jpg", "url10.jpg"],
+    "releaseDate": "2023-05-20"
+  },
+  {
+    "id": "e1a87bfb-21a5-432e-932f-36ab8db075d3",
+    "name": "Rastreador de Actividad Física",
+    "price": 50,
+    "category": "Fitness",
+    "description": "Rastrea tus actividades diarias y monitorea tu salud con este rastreador de actividad física.",
+    "brand": "FitTrack",
+    "availability": false,
+    "images": ["url11.jpg", "url12.jpg"],
+    "releaseDate": "2023-06-15"
+  },
+  {
+    "id": "9a6e40d2-1ff3-4484-8c63-d163fc19ee3c",
+    "name": "Silla de Escritorio",
+    "price": 120,
+    "category": "Muebles",
+    "description": "Silla ergonómica para un espacio de trabajo cómodo y productivo.",
+    "brand": "ErgoComfort",
+    "availability": true,
+    "images": ["url13.jpg", "url14.jpg"],
+    "releaseDate": "2023-07-01"
+  },
+  {
+    "id": "4e6f1a3b-1b67-4a79-8b0c-b7ad88d09e63",
+    "name": "Auriculares Inalámbricos",
+    "price": 60,
+    "category": "Electrónicos",
+    "description": "Auriculares inalámbricos con cancelación de ruido para una experiencia de audio envolvente.",
+    "brand": "SoundWave",
+    "availability": false,
+    "images": ["url15.jpg", "url16.jpg"],
+    "releaseDate": "2023-08-10"
+  },
+  {
+    "id": "8eb2e2ab-9172-40b8-8a29-cf98226ee7db",
+    "name": "Mochila de Viaje",
+    "price": 70,
+    "category": "Viaje",
+    "description": "Mochila espaciosa y duradera para tus aventuras de viaje.",
+    "brand": "ExplorePro",
+    "availability": true,
+    "images": ["url17.jpg", "url18.jpg"],
+    "releaseDate": "2023-09-25"
+  },
+  {
+    "id": "d558e8e3-791e-4c91-8f49-c9cfd7032e76",
+    "name": "Mouse para Juegos",
+    "price": 45,
+    "category": "Videojuegos",
+    "description": "Mouse para juegos de alta precisión con botones personalizables.",
+    "brand": "GameMaster",
+    "availability": true,
+    "images": ["url19.jpg", "url20.jpg"],
+    "releaseDate": "2023-10-15"
+  }
+]

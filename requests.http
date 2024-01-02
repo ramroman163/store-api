@@ -2,7 +2,7 @@
 GET http://localhost:3000/articles
 
 ### GET BY ID
-GET http://localhost:3000/articles/44f55b09-685a-472f-a66e-12c5f3fad1f2
+GET http://localhost:3000/articles/7e7e5b17-4a6c-4b4c-9b7a-dc557e8e64e1
 
 ### GET BY CATEGORY
 GET http://localhost:3000/articles/categories/Electrónicos
